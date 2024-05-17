@@ -1,0 +1,10 @@
+@CarMechanicAPI_HostAddress = https://localhost:7165
+
+GET {{CarMechanicAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{CarMechanicAPI_HostAddress}}/api/customer
+
+###
